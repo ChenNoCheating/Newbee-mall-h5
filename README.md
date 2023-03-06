@@ -1,3 +1,6 @@
+## 版权声明：newbee=mall （新蜂商城）项目为@ZHENFENG13原创项目
+本项目源自newbee-mall （新蜂商城）项目系列中newbee-mall-vue3-app部分[vue3-admin in GitHub](https://github.com/newbee-ltd/vue3-admin)
+
 ![](static-files/newbee-mall.png)
 
 ![Build Status](https://img.shields.io/badge/build-passing-green.svg)
